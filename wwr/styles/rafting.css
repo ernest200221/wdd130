@@ -14,3 +14,8 @@
     --nav-hover-link-color: #336699;
     --nav-hover-background-color:#9EE493 ;
   }
+  body {
+    font-family: var(--paragraph-font);
+    max-width: 960px;
+    padding: 20px;
+  }
