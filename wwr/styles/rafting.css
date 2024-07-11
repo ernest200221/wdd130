@@ -1,0 +1,16 @@
+import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --primary-color: #2F4858;
+    --secondary-color:  #86BBD8;
+    --accent1-color: #9EE493;
+    --accent2-color: #336699;
+  
+    --heading-font: 'Poppins', sans-serif;
+    --paragraph-font: 'Poppins', sans-serif;
+  
+    --nav-background-color: #86BBD8;
+    --nav-link-color: #2F4858;
+    --nav-hover-link-color: #336699;
+    --nav-hover-background-color:#9EE493 ;
+  }
