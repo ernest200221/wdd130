@@ -16,6 +16,37 @@
   }
   body {
     font-family: var(--paragraph-font);
+    color: #2F4858;
     max-width: 960px;
     padding: 20px;
   }
+  
+  article img {
+    width: 150px;
+    height: auto;
+    float: right;
+}
+
+  main {
+    max-width: 840px;
+  }
+
+  footer {
+    color: #2F4858;;
+    text-align: left;
+  }
+
+footer .sociallinks {
+    margin-top: 1rem;
+}
+
+
+footer .sociallinks img {
+    width: 30px; 
+    height: 30px;
+}
+
+footer .sociallinks a {
+    text-decoration: none; 
+}
+
